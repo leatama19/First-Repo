@@ -8,4 +8,7 @@ No special Libraries required
 # Operation 
 
 # Screengrab
-![](Week-01/colorcircle.png)
+
+![color circle](colorcircle.png)
+![colordiagonal](colordiagonal.png)
+![colordirection](colordirection.png)
