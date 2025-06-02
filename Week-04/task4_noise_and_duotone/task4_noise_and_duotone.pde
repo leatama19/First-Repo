@@ -1,5 +1,5 @@
-float noiseScale = 0.01;
-float time = 0;
+float noiseScale = 0.01; //teal color
+float time = 0; //white color
 color color1, color2;
 
 void setup() {
@@ -18,12 +18,12 @@ void draw() {
       float ny = y * noiseScale + time;
       float noiseVal = noise(nx, ny);
 
-      
+      //blend between two colors
       color c = lerpColor(color1, color2, noiseVal);
       pixels[y * width + x] = c;
     }
   }
 
   updatePixels();
-  time += 0.01;  
+  time += 0.01;  //animate noise over time
 }
