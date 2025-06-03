@@ -17,6 +17,9 @@ I gained inspiration from listening to a range of sci-fi soundtracks, which led 
 
 This sketch uses a a sine wave oscillator for both sound and visuals. As you move the mouse, the sound changes and the visuals pulse smoothly to match it.
 
+**3. Task development**
+I developed my sci-fi audio task by adding interactive controls and visuals. It allows you to change the amp and the tone using the mouse and the circle shows how it responds to the sound. I have also added text at the bottom of the sketch.
+
 # Requirements
 *Written in Processing 4.3*
 *Imported Processing Sound library*
@@ -24,4 +27,5 @@ This sketch uses a a sine wave oscillator for both sound and visuals. As you mov
 # Operation
 Use mouse to interact with sketch
 
-# Screen recording of sketches
+# Screen recordings of sketches
+https://drive.google.com/drive/folders/15QJWvFT3CLhS-LjFUZs1D4SoK5Tu6SPt?usp=sharing 
