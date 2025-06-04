@@ -28,3 +28,6 @@ Below I have attached images of the dithering outcome and the other task images 
 ![frame10](frame-5561.png)
 ![Sepiacam](frame-0955.jpg)
 ![dither class example](screenshot-0241.png)
+
+# Design Notes 
+- Had issues at first when trying to apply the dithering to the live cam
