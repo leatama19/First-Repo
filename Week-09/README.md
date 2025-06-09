@@ -22,6 +22,7 @@ https://drive.google.com/drive/folders/1a_YYo-AbSx0uQ7W1CAa9bZ59lVXsqL8j?usp=sha
 # Screengrabs
 ![start](<task7_fish_game 09_06_2025 13_33_53.png>)
 ![fish](<task7_fish_game 09_06_2025 13_34_37.png>)
+![wave](<task7_fish_game 09_06_2025 13_39_31.png>)
 ![gameover](<task7_fish_game 09_06_2025 13_36_13.png>)
 
 # Design notes
