@@ -1,6 +1,6 @@
 # Week-10 Task
 
-This sketch is inspired by halo halo, a filipino dessert made of colourful ingredients mixed in a bowl. The particles represent the different bits inside of the halo halo.
+Since I am half filipino, this sketch is inspired by halo halo, a filipino dessert made of colourful ingredients mixed in a bowl. The particles represent the different bits inside of the halo halo.
 
 Each particles uses three vectors:
 - location
@@ -15,8 +15,8 @@ I have developed my sketch further by introducing a "pop" text effect that appea
 *features:*
 - Created a popTimer variable to control how long the text "pop" stays on screen
 - Add random wind and gravity to particles
-Displays "pop" text at mouse click position
-Keeps particle system with loc,vel,acc
+- Displays "pop" text at mouse click position
+
 
 **How to interact:**
 Click anywhere on the canvas 
