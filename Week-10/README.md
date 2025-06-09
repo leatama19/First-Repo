@@ -28,5 +28,9 @@ Click anywhere on the canvas
 ## Screenrecording 
 https://drive.google.com/drive/folders/1UXQXhTYZsEH0ZAz2OHuxC_jRKvIIQFpv?usp=sharing
 
-
+## Design notes
+Initial idea:
+- Bowl of halo halo at the bottom of the screen
+- When use clicks, particles burst out from the bowl
+- my aim for this sketch was to make it feel fun and culturally inspired
 
