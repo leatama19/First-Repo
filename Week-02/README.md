@@ -13,6 +13,9 @@ This sketch displays a color image and displays it on screen. Using what I learn
 ![histogram test](nana.png)
 ![histogram task2](histogram-snapshot-0096.png)
 
+## Screen recording
+https://drive.google.com/drive/folders/1LmssoXx54MUqrUcuZPKIk7JlZ70nhmgy?usp=sharing
+
 ## Design Notes
 - Found it quite challenging placing the histograms where I wanted it to be
 - Have the histograms fit perfectly to the image size
