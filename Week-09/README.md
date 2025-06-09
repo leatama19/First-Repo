@@ -19,5 +19,10 @@ For this task I have made a fish game in processing. You play as a fish trying t
 # Screenrecording 
 https://drive.google.com/drive/folders/1a_YYo-AbSx0uQ7W1CAa9bZ59lVXsqL8j?usp=sharing
 
+# Screengrabs
+![start](<task7_fish_game 09_06_2025 13_33_53.png>)
+![fish](<task7_fish_game 09_06_2025 13_34_37.png>)
+![gameover](<task7_fish_game 09_06_2025 13_36_13.png>)
+
 # Design notes
 (ADD)
