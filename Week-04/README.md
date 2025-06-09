@@ -6,11 +6,9 @@ I have attempted to animate the terrain by gradually changing the noise input ov
 
 Below I have also included a link to a recording of the sketch running.
 
-# Requirements
+## Requirements
 *Written in Processing 4.3*
 *No special libraries required*
 
-# Operation
-
-# *Link to screen recording:* 
+## *Link to screen recording:* 
 https://drive.google.com/drive/folders/1lC85BG1mvrl65H-GvMM_OvrY115ab24Q?usp=sharing 

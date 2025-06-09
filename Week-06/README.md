@@ -20,12 +20,12 @@ This sketch uses a a sine wave oscillator for both sound and visuals. As you mov
 **3. Task development**
 I developed my sci-fi audio task by adding interactive controls and visuals. It allows you to change the amp and the tone using the mouse and the circle shows how it responds to the sound. I have also added text at the bottom of the sketch.
 
-# Requirements
+## Requirements
 *Written in Processing 4.3*
 *Imported Processing Sound library*
 
-# Operation
+## Operation
 Use mouse to interact with sketch
 
-# Screen recordings of sketches
+## Screen recordings of sketches
 https://drive.google.com/drive/folders/15QJWvFT3CLhS-LjFUZs1D4SoK5Tu6SPt?usp=sharing 

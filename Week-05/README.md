@@ -8,14 +8,14 @@ When 'ENTER' is pressed it saves up to 10 frames.
 
 Below I have attached images of the dithering outcome and the other task images at the end.
 
-# Requirements
+## Requirements
 *Written in Processing 4.3*
 *Imported Processing video*
 
-# Operation
+## Operation
 *Press ENTER for screengrab*
 
-# Screengrab
+## Screengrab
 ![frame1](frame-0243.png)
 ![frame2](frame-0716-1.png)
 ![frame3](frame-2202.png)
@@ -29,5 +29,5 @@ Below I have attached images of the dithering outcome and the other task images 
 ![Sepiacam](frame-0955.jpg)
 ![dither class example](screenshot-0241.png)
 
-# Design Notes 
+## Design Notes 
 - Had issues at first when trying to apply the dithering to the live cam

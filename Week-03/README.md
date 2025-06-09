@@ -3,13 +3,11 @@ For this task, I have created a grid of circles which are arranged in a checkerb
 
 I have also a attached a PNG image of the circles and a screen recording of the code running.
 
-# Requirements
+## Requirements
 *Written in Processing 4.3*
 *No special libraries requires*
 
-# Operation
-
-# Screengrab
+## Screengrab
 ![circlegrid](checkerboard-0002.png)
 
 *Link to recording*
