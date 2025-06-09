@@ -12,11 +12,11 @@ When you click on the bowl a burst of colourful particles generate. Eventually i
 **How to interact:**
 Click anywhere on the canvas 
 
-# Requirments
+## Requirments
 *Written in processing 4.3*
 *No special libraries required*
 
-# Screenrecording 
+## Screenrecording 
 https://drive.google.com/drive/folders/1UXQXhTYZsEH0ZAz2OHuxC_jRKvIIQFpv?usp=sharing
 
 
