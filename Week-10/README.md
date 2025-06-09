@@ -9,6 +9,15 @@ Each particles uses three vectors:
 
 When you click on the bowl a burst of colourful particles generate. Eventually it slowly fades away and disappear once they float off screen.
 
+**Developed sketch:**
+I have developed my sketch further by introducing a "pop" text effect that appears at the mouse position each time the user clicks.
+
+*features:*
+- Created a popTimer variable to control how long the text "pop" stays on screen
+- Add random wind and gravity to particles
+Displays "pop" text at mouse click position
+Keeps particle system with loc,vel,acc
+
 **How to interact:**
 Click anywhere on the canvas 
 
@@ -18,5 +27,6 @@ Click anywhere on the canvas
 
 ## Screenrecording 
 https://drive.google.com/drive/folders/1UXQXhTYZsEH0ZAz2OHuxC_jRKvIIQFpv?usp=sharing
+
 
 
